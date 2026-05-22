@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cuisson-four",
+    "name": "Cuisson au four",
+    "description": "Savoir préchauffer, surveiller et interpréter une cuisson au four."
+  },
+  {
+    "id": "cuisson-poele",
+    "name": "Cuisson à la poêle",
+    "description": "Saisir, colorer et contrôler la chaleur."
+  },
+  {
+    "id": "assaisonnement",
+    "name": "Assaisonnement",
+    "description": "Ajuster sel, gras, acide, sucre et épices."
+  },
+  {
+    "id": "mijotage",
+    "name": "Mijotage",
+    "description": "Cuire doucement pour développer le goût et la texture."
+  },
+  {
+    "id": "patisserie",
+    "name": "Pâtisserie",
+    "description": "Respecter proportions, textures, cuisson et repos."
+  },
+  {
+    "id": "cuisson-oeufs",
+    "name": "Cuisson des oeufs",
+    "description": "Gérer coagulation, chaleur douce et timing."
+  },
+  {
+    "id": "cuisine-vegetale",
+    "name": "Cuisine végétale",
+    "description": "Construire un plat gourmand sans viande."
+  },
+  {
+    "id": "sauce-simple",
+    "name": "Sauce simple",
+    "description": "Réduire, lier, équilibrer et napper."
+  },
+  {
+    "id": "cuisson-legumes",
+    "name": "Cuisson des légumes",
+    "description": "Cuire les légumes selon leur saison, leur texture et leur teneur en eau."
+  },
+  {
+    "id": "texture",
+    "name": "Texture",
+    "description": "Construire une texture crémeuse, croustillante, fondante ou nappante."
+  },
+  {
+    "id": "cuisine-du-monde",
+    "name": "Cuisine du monde",
+    "description": "Utiliser des assaisonnements, sauces et techniques issues de différentes cultures culinaires."
+  },
+  {
+    "id": "panure",
+    "name": "Panure",
+    "description": "Fariner, enrober et cuire une panure croustillante sans brûler."
+  },
+  {
+    "id": "pate-fluide",
+    "name": "Pâte fluide",
+    "description": "Préparer et cuire des pâtes type crêpes, galettes ou clafoutis."
+  },
+  {
+    "id": "pate-levee",
+    "name": "Pâte levée",
+    "description": "Gérer hydratation, levure, repos et cuisson des pâtes à pain."
+  },
+  {
+    "id": "caramelisation",
+    "name": "Caramélisation",
+    "description": "Colorer sucres et aliments pour développer goût, texture et couleur."
+  },
+  {
+    "id": "meringue",
+    "name": "Meringue",
+    "description": "Monter des blancs, stabiliser au sucre et sécher au four."
+  },
+  {
+    "id": "organisation",
+    "name": "Organisation",
+    "description": "Préparer plusieurs éléments dans le bon ordre sans se disperser."
+  },
+  {
+    "id": "decoupe",
+    "name": "Découpe",
+    "description": "Adapter taille et régularité de coupe à la cuisson et au dressage."
+  }
+]

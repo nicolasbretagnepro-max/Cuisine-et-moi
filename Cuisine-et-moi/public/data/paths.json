@@ -1,0 +1,280 @@
+[
+  {
+    "id": "bases-12-semaines",
+    "title": "Bases solides en 12 semaines",
+    "description": "Un parcours personnel au rythme d’une recette par semaine pour travailler les cuissons, les sauces, les classiques, le végétal et les desserts.",
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Cuire des œufs sans stress",
+        "objective": "Apprendre à contrôler une cuisson courte et à observer la texture.",
+        "mainRecipeId": "omelette-fines-herbes",
+        "alternativeRecipeIds": [
+          "riz-saute-oeufs",
+          "shakshuka"
+        ],
+        "skillId": "cuisson-oeufs"
+      },
+      {
+        "week": 2,
+        "title": "Construire une sauce simple",
+        "objective": "Comprendre acidité, réduction et assaisonnement dans une sauce du quotidien.",
+        "mainRecipeId": "pates-tomate-basilic",
+        "alternativeRecipeIds": [
+          "poulet-poele-sauce-citron",
+          "risotto-champignons"
+        ],
+        "skillId": "sauce-simple"
+      },
+      {
+        "week": 3,
+        "title": "Saisir à la poêle",
+        "objective": "Gérer la chaleur, la coloration et le repos d’une protéine.",
+        "mainRecipeId": "poulet-poele-sauce-citron",
+        "alternativeRecipeIds": [
+          "poisson-meuniere",
+          "tofu-croustillant-cacahuete"
+        ],
+        "skillId": "cuisson-poele"
+      },
+      {
+        "week": 4,
+        "title": "Mijoter efficacement",
+        "objective": "Obtenir une texture fondante et un goût construit sans complexité.",
+        "mainRecipeId": "dahl-lentilles-corail",
+        "alternativeRecipeIds": [
+          "curry-pois-chiches-coco",
+          "chana-masala"
+        ],
+        "skillId": "mijotage"
+      },
+      {
+        "week": 5,
+        "title": "Réussir un classique français",
+        "objective": "Comprendre appareil, garniture et cuisson régulière.",
+        "mainRecipeId": "quiche-lorraine",
+        "alternativeRecipeIds": [
+          "gratin-dauphinois-simplifie",
+          "hachis-parmentier"
+        ],
+        "skillId": "classique-francais"
+      },
+      {
+        "week": 6,
+        "title": "Donner envie aux légumes",
+        "objective": "Travailler la cuisson au four, les textures et une sauce d’accompagnement.",
+        "mainRecipeId": "legumes-rotis-tahini",
+        "alternativeRecipeIds": [
+          "ratatouille",
+          "salade-lentilles-oeuf-mollet"
+        ],
+        "skillId": "cuisson-four"
+      },
+      {
+        "week": 7,
+        "title": "Cuire un poisson",
+        "objective": "Gérer une cuisson fragile et apprendre le beurre noisette.",
+        "mainRecipeId": "poisson-meuniere",
+        "alternativeRecipeIds": [
+          "soupe-miso-tofu",
+          "poulet-teriyaki"
+        ],
+        "skillId": "cuisson-poisson"
+      },
+      {
+        "week": 8,
+        "title": "Dessert simple et précis",
+        "objective": "Comprendre un appareil, une cuisson au four et l’équilibre sucre/acide.",
+        "mainRecipeId": "cake-citron",
+        "alternativeRecipeIds": [
+          "banana-bread",
+          "gateau-yaourt"
+        ],
+        "skillId": "patisserie"
+      },
+      {
+        "week": 9,
+        "title": "Cuisine du monde accessible",
+        "objective": "Construire un plat très savoureux avec une sauce courte et équilibrée.",
+        "mainRecipeId": "poulet-teriyaki",
+        "alternativeRecipeIds": [
+          "curry-thai-simplifie",
+          "tacos-poulet"
+        ],
+        "skillId": "equilibre-sucre-sale"
+      },
+      {
+        "week": 10,
+        "title": "Vegan gourmand",
+        "objective": "Utiliser légumineuses, épices, gras et acidité pour faire un plat complet sans produits animaux.",
+        "mainRecipeId": "curry-pois-chiches-coco",
+        "alternativeRecipeIds": [
+          "houmous-maison",
+          "tofu-croustillant-cacahuete"
+        ],
+        "skillId": "cuisine-vegetale"
+      },
+      {
+        "week": 11,
+        "title": "Pâte et fruits",
+        "objective": "Apprendre à gérer l’humidité des fruits et la cuisson d’une tarte.",
+        "mainRecipeId": "tarte-pommes-simple",
+        "alternativeRecipeIds": [
+          "crumble-pommes",
+          "crepes"
+        ],
+        "skillId": "patisserie"
+      },
+      {
+        "week": 12,
+        "title": "Recette plaisir à refaire",
+        "objective": "Choisir une recette déjà faite, la refaire et améliorer un point précis.",
+        "mainRecipeId": "risotto-champignons",
+        "alternativeRecipeIds": [
+          "quiche-lorraine",
+          "poulet-poele-sauce-citron"
+        ],
+        "skillId": "autonomie"
+      }
+    ]
+  },
+  {
+    "id": "saisons-12-semaines",
+    "title": "Cuisiner les saisons en 12 semaines",
+    "description": "Un parcours pour apprendre à choisir les bons produits selon la période : printemps frais, été coloré, automne réconfortant, hiver nourrissant.",
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Printemps : légumes verts",
+        "objective": "Cuire un légume vert sans le ternir et l’assaisonner avec acidité.",
+        "mainRecipeId": "asperges-mimosa-vinaigrette-citron",
+        "alternativeRecipeIds": [
+          "salade-tiede-haricots-verts-noisettes",
+          "risotto-asperges-citron"
+        ],
+        "skillId": "cuisson-legumes"
+      },
+      {
+        "week": 2,
+        "title": "Printemps : herbes fraîches",
+        "objective": "Utiliser les herbes comme ingrédient principal, pas seulement comme décoration.",
+        "mainRecipeId": "taboule-herbes-grenade",
+        "alternativeRecipeIds": [
+          "banh-mi-tofu-pickles",
+          "poireaux-vinaigrette-oeuf-mollet"
+        ],
+        "skillId": "assaisonnement"
+      },
+      {
+        "week": 3,
+        "title": "Été : tomates et pâte",
+        "objective": "Gérer l’humidité des tomates pour garder une pâte croustillante.",
+        "mainRecipeId": "tarte-tomate-moutarde",
+        "alternativeRecipeIds": [
+          "salade-peches-tomates-burrata",
+          "ratatouille"
+        ],
+        "skillId": "cuisson-four"
+      },
+      {
+        "week": 4,
+        "title": "Été : salade moderne",
+        "objective": "Assembler fruit, gras, sel et acidité dans une assiette simple.",
+        "mainRecipeId": "salade-peches-tomates-burrata",
+        "alternativeRecipeIds": [
+          "nouilles-soba-sesame-concombre",
+          "taboule-herbes-grenade"
+        ],
+        "skillId": "assaisonnement"
+      },
+      {
+        "week": 5,
+        "title": "Été : dessert aux fruits",
+        "objective": "Comprendre appareil, fruits et cuisson courte.",
+        "mainRecipeId": "clafoutis-cerises",
+        "alternativeRecipeIds": [
+          "panna-cotta-vanille-fruits-rouges",
+          "muffins-myrtilles-avoine"
+        ],
+        "skillId": "patisserie"
+      },
+      {
+        "week": 6,
+        "title": "Automne : courges",
+        "objective": "Utiliser une cuisson au four pour concentrer le goût.",
+        "mainRecipeId": "courge-farcie-quinoa-chevre",
+        "alternativeRecipeIds": [
+          "veloute-potimarron-chataigne",
+          "gnocchis-potimarron-sauge"
+        ],
+        "skillId": "cuisson-four"
+      },
+      {
+        "week": 7,
+        "title": "Automne : champignons et textures",
+        "objective": "Travailler coloration et texture réconfortante.",
+        "mainRecipeId": "risotto-champignons",
+        "alternativeRecipeIds": [
+          "gnocchis-potimarron-sauge",
+          "tofu-laque-miso-erable"
+        ],
+        "skillId": "texture"
+      },
+      {
+        "week": 8,
+        "title": "Automne : pâtisserie épicée",
+        "objective": "Gérer humidité, épices et glaçage.",
+        "mainRecipeId": "carrot-cake-cream-cheese",
+        "alternativeRecipeIds": [
+          "poires-roties-miso-caramel",
+          "brioche-perdue-pommes-cannelle"
+        ],
+        "skillId": "patisserie"
+      },
+      {
+        "week": 9,
+        "title": "Hiver : soupe nourrissante",
+        "objective": "Construire une soupe avec corps, épices et fraîcheur finale.",
+        "mainRecipeId": "harira-lentilles-pois-chiches",
+        "alternativeRecipeIds": [
+          "pho-express-champignons",
+          "soupe-miso-tofu"
+        ],
+        "skillId": "mijotage"
+      },
+      {
+        "week": 10,
+        "title": "Hiver : classique fondant",
+        "objective": "Travailler une cuisson douce et une sauce simple.",
+        "mainRecipeId": "poireaux-vinaigrette-oeuf-mollet",
+        "alternativeRecipeIds": [
+          "gratin-dauphinois-simplifie",
+          "hachis-parmentier"
+        ],
+        "skillId": "cuisson-legumes"
+      },
+      {
+        "week": 11,
+        "title": "Toutes saisons : pâte maison",
+        "objective": "Gérer hydratation, repos et cuisson d’une pâte.",
+        "mainRecipeId": "focaccia-romarin",
+        "alternativeRecipeIds": [
+          "galette-sarrasin-complete",
+          "crepes"
+        ],
+        "skillId": "pate-levee"
+      },
+      {
+        "week": 12,
+        "title": "Toutes saisons : dessert signature",
+        "objective": "Choisir un dessert à refaire pour progresser en précision.",
+        "mainRecipeId": "tarte-citron-simplifiee",
+        "alternativeRecipeIds": [
+          "financiers-noisette-beurre-noisette",
+          "brownie-tahini-chocolat"
+        ],
+        "skillId": "patisserie"
+      }
+    ]
+  }
+]

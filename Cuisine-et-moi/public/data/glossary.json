@@ -1,0 +1,38 @@
+[
+  {
+    "id": "deglacer",
+    "term": "Déglacer",
+    "definition": "Ajouter un liquide dans une poêle chaude pour décoller les sucs de cuisson.",
+    "example": "Après avoir saisi un poulet, verser un peu d’eau, de bouillon ou de citron."
+  },
+  {
+    "id": "reduire",
+    "term": "Réduire",
+    "definition": "Faire évaporer une partie de l’eau d’une sauce pour concentrer le goût et épaissir.",
+    "example": "Laisser mijoter une sauce tomate jusqu’à ce qu’elle nappe la cuillère."
+  },
+  {
+    "id": "suer",
+    "term": "Suer",
+    "definition": "Cuire doucement un légume dans un peu de gras sans coloration forte.",
+    "example": "Faire suer un oignon jusqu’à ce qu’il devienne translucide."
+  },
+  {
+    "id": "saisir",
+    "term": "Saisir",
+    "definition": "Cuire rapidement à feu assez vif pour colorer la surface d’un aliment.",
+    "example": "Poser le poulet dans une poêle chaude sans le bouger plusieurs minutes."
+  },
+  {
+    "id": "emulsionner",
+    "term": "Émulsionner",
+    "definition": "Mélanger deux éléments qui se séparent naturellement, comme gras et eau, pour créer une sauce liée.",
+    "example": "Monter une vinaigrette ou incorporer du beurre froid dans une sauce."
+  },
+  {
+    "id": "foncer",
+    "term": "Foncer une pâte",
+    "definition": "Installer une pâte dans un moule en l’appliquant bien contre les bords.",
+    "example": "Foncer un moule à tarte avant d’ajouter la garniture."
+  }
+]

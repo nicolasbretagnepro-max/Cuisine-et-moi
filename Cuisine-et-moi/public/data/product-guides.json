@@ -1,0 +1,218 @@
+[
+  {
+    "id": "citron",
+    "name": "Citron",
+    "family": "agrume",
+    "seasons": ["hiver", "printemps"],
+    "howToChoose": [
+      "Choisis-le lourd pour sa taille : il sera généralement plus juteux.",
+      "Une peau fine donne souvent plus de jus ; une peau épaisse est utile pour les zestes.",
+      "Pour zester, privilégie un citron non traité après récolte."
+    ],
+    "howToStore": [
+      "Il tient quelques jours à température ambiante, plus longtemps au réfrigérateur.",
+      "Le jus peut être congelé en petites portions.",
+      "Zeste avant de presser : c’est plus simple et plus propre."
+    ],
+    "techniques": [
+      "Le jus réveille un plat gras ou plat, mais s’ajoute progressivement.",
+      "Le zeste parfume sans apporter autant d’acidité que le jus.",
+      "Ajouté en fin de cuisson, il garde plus de fraîcheur."
+    ],
+    "pairings": ["beurre", "poisson", "poulet", "herbes fraîches", "huile d’olive", "pâtisserie"],
+    "commonMistakes": [
+      "Ajouter trop de jus d’un coup et déséquilibrer la sauce.",
+      "Zester la partie blanche, qui apporte de l’amertume.",
+      "Faire bouillir longtemps le jus, ce qui écrase la fraîcheur."
+    ]
+  },
+  {
+    "id": "oeuf",
+    "name": "Œuf",
+    "family": "protéine",
+    "seasons": ["printemps", "ete", "automne", "hiver"],
+    "howToChoose": [
+      "Vérifie la date et l’intégrité de la coquille.",
+      "Pour une omelette ou une pâtisserie simple, la fraîcheur compte, mais la précision de cuisson compte davantage.",
+      "Pour les préparations crues ou peu cuites, utilise des œufs très frais."
+    ],
+    "howToStore": [
+      "Conserve-les au frais et évite les variations de température.",
+      "Garde-les dans leur boîte pour limiter les odeurs et les chocs.",
+      "Sors-les un peu avant certaines pâtisseries pour faciliter les mélanges."
+    ],
+    "techniques": [
+      "Les œufs coagulent avec la chaleur : trop chaud ou trop longtemps donne une texture sèche.",
+      "Le sel, le gras et la température influencent la texture finale.",
+      "En pâtisserie, ils structurent, émulsionnent et apportent du moelleux."
+    ],
+    "pairings": ["herbes", "beurre", "fromage", "champignons", "tomate", "vanille"],
+    "commonMistakes": [
+      "Cuire trop fort une omelette et obtenir une texture caoutchouteuse.",
+      "Incorporer des œufs froids dans un beurre très chaud et trancher l’appareil.",
+      "Ne pas goûter l’assaisonnement d’une préparation salée avant cuisson."
+    ]
+  },
+  {
+    "id": "tomate",
+    "name": "Tomate",
+    "family": "légume-fruit",
+    "seasons": ["ete"],
+    "howToChoose": [
+      "En saison, choisis une tomate parfumée, souple mais pas molle.",
+      "Hors saison, préfère souvent une bonne conserve de tomates à une tomate fraîche fade.",
+      "Pour une tarte, les tomates charnues et peu aqueuses sont plus faciles à maîtriser."
+    ],
+    "howToStore": [
+      "Évite le réfrigérateur si possible : le froid atténue les arômes.",
+      "Garde-les à température ambiante, à l’abri du soleil direct.",
+      "Une tomate très mûre peut être transformée en sauce ou rôtie."
+    ],
+    "techniques": [
+      "La cuisson concentre les sucres et réduit l’eau.",
+      "Une pointe de sucre peut corriger une acidité excessive, mais ne remplace pas une bonne réduction.",
+      "Le sel aide à faire sortir l’eau : utile pour dégorger, risqué pour une tarte si mal anticipé."
+    ],
+    "pairings": ["basilic", "ail", "huile d’olive", "mozzarella", "piment", "vinaigre"],
+    "commonMistakes": [
+      "Ne pas réduire assez une sauce tomate, qui reste aqueuse.",
+      "Mettre des tomates trop humides sur une pâte à tarte.",
+      "Cuire l’ail trop fort avant d’ajouter la tomate."
+    ]
+  },
+  {
+    "id": "lentille-corail",
+    "name": "Lentille corail",
+    "family": "légumineuse",
+    "seasons": ["printemps", "ete", "automne", "hiver"],
+    "howToChoose": [
+      "Choisis des lentilles de couleur vive, sans poussière excessive.",
+      "Elles sont décortiquées : elles cuisent vite et deviennent naturellement crémeuses.",
+      "Elles conviennent aux dahls, soupes et purées, moins aux salades fermes."
+    ],
+    "howToStore": [
+      "Conserve-les au sec, dans un bocal fermé.",
+      "Rince-les avant cuisson pour enlever la poussière d’amidon.",
+      "Une fois cuites, conserve-les 2 à 3 jours au frais."
+    ],
+    "techniques": [
+      "Elles se défont à la cuisson, ce qui épaissit naturellement les plats.",
+      "Un mijotage doux évite qu’elles accrochent au fond.",
+      "L’acidité se met plutôt en fin de cuisson, car elle peut raffermir certaines légumineuses."
+    ],
+    "pairings": ["cumin", "curcuma", "coco", "citron vert", "coriandre", "gingembre"],
+    "commonMistakes": [
+      "Cuire trop fort et faire accrocher le fond.",
+      "Ajouter trop peu de liquide et obtenir une texture pâteuse.",
+      "Ne pas corriger avec sel et acidité en fin de cuisson."
+    ]
+  },
+  {
+    "id": "pomme",
+    "name": "Pomme",
+    "family": "fruit",
+    "seasons": ["automne", "hiver"],
+    "howToChoose": [
+      "Pour une tarte, choisis une pomme qui tient à la cuisson, comme Golden, Pink Lady ou Reine des reinettes.",
+      "Pour une compote, une pomme plus fondante convient mieux.",
+      "Mélanger deux variétés donne plus de relief."
+    ],
+    "howToStore": [
+      "Conserve-les au frais ou dans un endroit ventilé.",
+      "Évite de les coller aux fruits fragiles : elles accélèrent leur maturation.",
+      "Une pomme abîmée doit être utilisée rapidement."
+    ],
+    "techniques": [
+      "La cuisson concentre le sucre et transforme la texture.",
+      "Une pâte risque de détremper si les fruits rendent trop d’eau.",
+      "Un peu d’acidité équilibre les desserts très sucrés."
+    ],
+    "pairings": ["cannelle", "beurre", "vanille", "citron", "noisette", "caramel"],
+    "commonMistakes": [
+      "Utiliser une variété trop aqueuse pour une tarte.",
+      "Couper des morceaux irréguliers qui cuisent de manière inégale.",
+      "Oublier une touche d’acidité dans un dessert très doux."
+    ]
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu",
+    "family": "protéine végétale",
+    "seasons": ["printemps", "ete", "automne", "hiver"],
+    "howToChoose": [
+      "Pour poêler, choisis un tofu ferme ou extra-ferme.",
+      "Le tofu soyeux convient plutôt aux crèmes, sauces et desserts.",
+      "Un tofu nature demande une sauce ou une marinade bien pensée."
+    ],
+    "howToStore": [
+      "Garde-le au frais dans son emballage.",
+      "Après ouverture, couvre-le d’eau dans une boîte et change l’eau chaque jour.",
+      "Égoutte-le bien avant de le poêler."
+    ],
+    "techniques": [
+      "Plus il est sec, mieux il dore.",
+      "La fécule aide à créer une surface croustillante.",
+      "Il absorbe mieux les sauces puissantes : soja, miso, gingembre, cacahuète, citron vert."
+    ],
+    "pairings": ["sauce soja", "miso", "cacahuète", "gingembre", "sésame", "citron vert"],
+    "commonMistakes": [
+      "Le cuire humide, ce qui empêche la coloration.",
+      "Le manipuler trop tôt dans la poêle et casser les cubes.",
+      "Le servir sans sauce ou sans contraste de texture."
+    ]
+  },
+  {
+    "id": "chocolat",
+    "name": "Chocolat",
+    "family": "pâtisserie",
+    "seasons": ["printemps", "ete", "automne", "hiver"],
+    "howToChoose": [
+      "Pour la pâtisserie, un chocolat autour de 55 à 70 % est polyvalent.",
+      "Plus le cacao est élevé, plus le résultat sera amer et moins sucré.",
+      "Évite les chocolats très sucrés pour les préparations déjà riches."
+    ],
+    "howToStore": [
+      "Conserve-le au sec, à l’abri de la chaleur et des odeurs.",
+      "Évite le réfrigérateur sauf forte chaleur, car l’humidité peut le blanchir.",
+      "Fais-le fondre doucement pour éviter de le brûler."
+    ],
+    "techniques": [
+      "Une chaleur trop forte brûle le chocolat et le rend granuleux.",
+      "Le gras, les œufs et le sucre modifient fortement la texture finale.",
+      "Un peu de sel renforce la perception du chocolat."
+    ],
+    "pairings": ["café", "noisette", "orange", "sel", "vanille", "tahini"],
+    "commonMistakes": [
+      "Faire fondre directement à feu trop fort.",
+      "Trop cuire un fondant ou un brownie.",
+      "Ne pas équilibrer avec sel ou amertume."
+    ]
+  },
+  {
+    "id": "courge",
+    "name": "Courge",
+    "family": "légume",
+    "seasons": ["automne", "hiver"],
+    "howToChoose": [
+      "Choisis une courge lourde, ferme, sans zone molle.",
+      "Le potimarron a une peau souvent comestible après cuisson.",
+      "La butternut donne une texture douce et régulière."
+    ],
+    "howToStore": [
+      "Entière, elle se conserve longtemps dans un endroit frais et sec.",
+      "Coupée, elle doit aller au réfrigérateur et être utilisée rapidement.",
+      "Les morceaux rôtis se gardent 2 à 3 jours au frais."
+    ],
+    "techniques": [
+      "La cuisson au four concentre le goût et évite une texture aqueuse.",
+      "Le gras aide les épices à mieux parfumer la chair.",
+      "Une touche acide ou salée équilibre sa douceur naturelle."
+    ],
+    "pairings": ["sauge", "noix", "chèvre", "miso", "cumin", "piment"],
+    "commonMistakes": [
+      "Cuire à l’eau sans assaisonner et obtenir une texture fade.",
+      "Ne pas compenser la douceur avec sel, acide ou épices.",
+      "Couper des morceaux trop gros qui cuisent lentement."
+    ]
+  }
+]

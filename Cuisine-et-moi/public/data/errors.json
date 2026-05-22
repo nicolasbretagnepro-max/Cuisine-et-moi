@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sauce-trop-acide",
+    "title": "Ma sauce est trop acide",
+    "causes": [
+      "Trop de citron ou de vinaigre",
+      "Tomate naturellement acide",
+      "Manque de gras ou de sucre"
+    ],
+    "solutions": [
+      "Ajouter un peu de beurre, crème ou huile d’olive",
+      "Ajouter une pincée de sucre",
+      "Allonger légèrement puis réduire doucement"
+    ],
+    "prevention": [
+      "Ajouter l’acide progressivement",
+      "Goûter avant de corriger"
+    ]
+  },
+  {
+    "id": "viande-seche",
+    "title": "Ma viande est sèche",
+    "causes": [
+      "Cuisson trop longue",
+      "Feu trop fort trop longtemps",
+      "Viande coupée sans repos"
+    ],
+    "solutions": [
+      "Servir avec une sauce",
+      "Couper en tranches fines",
+      "Ajouter un peu de gras ou de jus"
+    ],
+    "prevention": [
+      "Aplatir les morceaux épais",
+      "Laisser reposer avant découpe",
+      "Arrêter la cuisson un peu plus tôt"
+    ]
+  },
+  {
+    "id": "sauce-trop-liquide",
+    "title": "Ma sauce est trop liquide",
+    "causes": [
+      "Trop d’eau",
+      "Pas assez de réduction",
+      "Feu trop doux"
+    ],
+    "solutions": [
+      "Laisser réduire sans couvercle",
+      "Ajouter un élément liant adapté",
+      "Servir avec un féculent qui absorbe"
+    ],
+    "prevention": [
+      "Ajouter les liquides progressivement",
+      "Observer la texture plutôt que le temps seul"
+    ]
+  },
+  {
+    "id": "plat-fade",
+    "title": "Mon plat est fade",
+    "causes": [
+      "Pas assez de sel",
+      "Manque d’acidité",
+      "Base aromatique insuffisante"
+    ],
+    "solutions": [
+      "Ajouter sel par petites pincées",
+      "Ajouter citron ou vinaigre",
+      "Ajouter herbes fraîches ou épices"
+    ],
+    "prevention": [
+      "Goûter à plusieurs moments",
+      "Saler l’eau de cuisson des féculents"
+    ]
+  },
+  {
+    "id": "cake-sec",
+    "title": "Mon cake est sec",
+    "causes": [
+      "Cuisson trop longue",
+      "Four trop chaud",
+      "Pâte trop travaillée"
+    ],
+    "solutions": [
+      "Servir avec yaourt, compote ou sirop léger",
+      "Réduire le temps la prochaine fois"
+    ],
+    "prevention": [
+      "Tester avec une lame encore légèrement humide",
+      "Mélanger juste assez après la farine"
+    ]
+  }
+]
